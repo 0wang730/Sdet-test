@@ -1,0 +1,4 @@
+When I first started automating tests for this website, I spent a considerable amount of time searching for the logout button.
+ It wasn't until I realized that the profile button was unclickable—which subconsciously led me to believe that the logout option might be hidden under it. 
+Later, after reviewing the test illustrations for the automation examination, I noticed that the profile section included options for editing and logout. 
+Following this, I began appending different words to the end of the website URL, and eventually, I discovered the correct link: /profile/settings!

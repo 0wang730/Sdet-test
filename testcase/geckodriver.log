@@ -1,0 +1,2182 @@
+1713748782701	geckodriver	INFO	Listening on 127.0.0.1:55153
+1713748785754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebFSYwq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713748785942	Marionette	INFO	Marionette enabled
+1713748785986	Marionette	INFO	Listening on port 55162
+WebDriver BiDi listening on ws://127.0.0.1:55154
+Read port: 55162
+1713748786128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55154/devtools/browser/2a054053-32f4-430b-aee8-abaf45575533
+JavaScript error: https://earnaha.com/, line 1: ReferenceError: WebFont is not defined
+1713748816248	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://earnaha.com/, line 64: ReferenceError: google is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D, line 171: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:171:1328
+bA@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:134
+cA/<@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:111
+
+1713749045694	Marionette	INFO	Stopped listening on port 55162
+Dynamically enable window occlusion 1
+1713749054207	geckodriver	INFO	Listening on 127.0.0.1:55677
+1713749057270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55678" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileyRQFjo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713749057468	Marionette	INFO	Marionette enabled
+1713749057516	Marionette	INFO	Listening on port 55685
+WebDriver BiDi listening on ws://127.0.0.1:55678
+Read port: 55685
+1713749057648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55678/devtools/browser/15f4ab0b-8250-4d80-ba12-d8b0ad876bdc
+JavaScript error: https://earnaha.com/, line 1: ReferenceError: WebFont is not defined
+1713749087852	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://earnaha.com/, line 64: ReferenceError: google is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D, line 171: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:171:1328
+bA@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:134
+cA/<@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:111
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713750328822	Marionette	INFO	Stopped listening on port 55685
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileMAX2Vg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713749708807	Marionette	INFO	Marionette enabled
+1713749708874	Marionette	INFO	Listening on port 56882
+WebDriver BiDi listening on ws://127.0.0.1:56873
+Read port: 56882
+1713749708982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56873/devtools/browser/c80c793f-f6ea-414e-a09d-6485fe1db933
+JavaScript error: https://earnaha.com/, line 1: ReferenceError: WebFont is not defined
+1713749739632	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://earnaha.com/, line 64: ReferenceError: google is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D, line 171: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:171:1328
+bA@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:134
+cA/<@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:111
+
+1713749772126	Marionette	INFO	Stopped listening on port 56882
+Dynamically enable window occlusion 1
+1713749773598	geckodriver	INFO	Listening on 127.0.0.1:57190
+1713749776663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletsXMFz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713749776855	Marionette	INFO	Marionette enabled
+1713749776922	Marionette	INFO	Listening on port 57199
+WebDriver BiDi listening on ws://127.0.0.1:57191
+Read port: 57199
+1713749777031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57191/devtools/browser/e5267528-1478-402b-a1bc-7d8a335558fd
+JavaScript error: https://earnaha.com/, line 1: ReferenceError: WebFont is not defined
+1713749807210	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://earnaha.com/, line 64: ReferenceError: google is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D, line 171: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:171:1328
+bA@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:134
+cA/<@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:111
+
+1713749979108	Marionette	INFO	Stopped listening on port 57199
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile16a8y1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713749889509	Marionette	INFO	Marionette enabled
+1713749889576	Marionette	INFO	Listening on port 57579
+WebDriver BiDi listening on ws://127.0.0.1:57572
+Read port: 57579
+1713749889685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57572/devtools/browser/9b2b7880-d430-492f-b125-400ee3b98043
+JavaScript error: https://earnaha.com/, line 1: ReferenceError: WebFont is not defined
+1713749919522	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://earnaha.com/, line 64: ReferenceError: google is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D, line 171: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:171:1328
+bA@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:134
+cA/<@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:111
+
+1713749980467	Marionette	INFO	Stopped listening on port 57579
+Dynamically enable window occlusion 1
+1713749983500	geckodriver	INFO	Listening on 127.0.0.1:57852
+1713749986563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileEfOE2S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713749986774	Marionette	INFO	Marionette enabled
+1713749986841	Marionette	INFO	Listening on port 57862
+WebDriver BiDi listening on ws://127.0.0.1:57853
+Read port: 57862
+1713749986950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57853/devtools/browser/671c22f2-d772-4a76-94dc-d154359cb08a
+JavaScript error: https://earnaha.com/, line 1: ReferenceError: WebFont is not defined
+1713750016819	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://earnaha.com/, line 64: ReferenceError: google is not defined
+1713750065632	Marionette	INFO	Stopped listening on port 57862
+Dynamically enable window occlusion 1
+1713750067972	geckodriver	INFO	Listening on 127.0.0.1:58155
+1713750071033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58156" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileRsFyUr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713750071214	Marionette	INFO	Marionette enabled
+1713750071281	Marionette	INFO	Listening on port 58164
+WebDriver BiDi listening on ws://127.0.0.1:58156
+Read port: 58164
+1713750071392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58156/devtools/browser/016311de-641b-46d1-b174-e3823a7ee7f7
+1713750101719	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713750143762	Marionette	INFO	Stopped listening on port 58164
+Dynamically enable window occlusion 1
+1713750438626	geckodriver	INFO	Listening on 127.0.0.1:58982
+1713750441677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58983" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTFoXMP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713750441852	Marionette	INFO	Marionette enabled
+1713750441921	Marionette	INFO	Listening on port 58990
+WebDriver BiDi listening on ws://127.0.0.1:58983
+Read port: 58990
+1713750442041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58983/devtools/browser/8aba1397-11e2-4ee5-aeb2-03c259f2549e
+JavaScript error: https://earnaha.com/, line 1: ReferenceError: WebFont is not defined
+1713750471925	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://earnaha.com/, line 64: ReferenceError: google is not defined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D, line 171: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:171:1328
+bA@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:134
+cA/<@https://www.googletagmanager.com/gtag/js?id=G-LXNY6Y6R3D:518:111
+
+1713750603426	Marionette	INFO	Stopped listening on port 58990
+Dynamically enable window occlusion 1
+1713750696820	geckodriver	INFO	Listening on 127.0.0.1:59496
+1713750699877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZThDOV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713750700064	Marionette	INFO	Marionette enabled
+1713750700130	Marionette	INFO	Listening on port 59504
+WebDriver BiDi listening on ws://127.0.0.1:59497
+Read port: 59504
+1713750700239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59497/devtools/browser/8faa0c33-9290-4efa-a64d-553e6278d3d8
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713750730139	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713750913060	Marionette	INFO	Stopped listening on port 59504
+Dynamically enable window occlusion 1
+1713750922894	geckodriver	INFO	Listening on 127.0.0.1:59798
+1713750925948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiled6Bh9n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713750926127	Marionette	INFO	Marionette enabled
+1713750926195	Marionette	INFO	Listening on port 59806
+WebDriver BiDi listening on ws://127.0.0.1:59799
+Read port: 59806
+1713750926303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59799/devtools/browser/2ca25693-79cf-4492-915e-d41837858354
+1713750956233	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713750958882	Marionette	INFO	Stopped listening on port 59806
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/search-config-overrides sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/fxmonitor-breaches getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1713750970222	geckodriver	INFO	Listening on 127.0.0.1:60173
+1713750973278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60174" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegG8R29"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713750973462	Marionette	INFO	Marionette enabled
+1713750973528	Marionette	INFO	Listening on port 60182
+WebDriver BiDi listening on ws://127.0.0.1:60174
+Read port: 60182
+1713750973635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60174/devtools/browser/80c3f492-3a04-441e-9826-00180738d72e
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713751003691	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713751618104	Marionette	INFO	Stopped listening on port 60182
+Dynamically enable window occlusion 1
+Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751070946	Marionette	INFO	Marionette enabled
+1713751071011	Marionette	INFO	Listening on port 60589
+WebDriver BiDi listening on ws://127.0.0.1:60580
+Read port: 60589
+1713751071124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60580/devtools/browser/de5a104e-1c05-4c0c-88f0-11ec823ecf57
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713751101318	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713751619117	Marionette	INFO	Stopped listening on port 60589
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDNhTpg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751194469	Marionette	INFO	Marionette enabled
+1713751194537	Marionette	INFO	Listening on port 60903
+WebDriver BiDi listening on ws://127.0.0.1:60892
+Read port: 60903
+1713751194648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60892/devtools/browser/bf28af26-0d70-44e4-afe8-5b7d15744b59
+1713751225582	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713751345687	Marionette	INFO	Stopped listening on port 60903
+Dynamically enable window occlusion 1
+CFH3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751248409	Marionette	INFO	Marionette enabled
+1713751248496	Marionette	INFO	Listening on port 61146
+Read port: 61146
+WebDriver BiDi listening on ws://127.0.0.1:61137
+1713751248545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61137/devtools/browser/7af2b765-68e3-4054-873f-e7de63cd8f0b
+1713751278463	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713751620286	Marionette	INFO	Stopped listening on port 61146
+Dynamically enable window occlusion 1
+Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751305622	Marionette	INFO	Marionette enabled
+1713751305708	Marionette	INFO	Listening on port 61408
+WebDriver BiDi listening on ws://127.0.0.1:61400
+Read port: 61408
+1713751305832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61400/devtools/browser/dde104e8-140c-46f0-9abd-b49bc709cbae
+1713751337009	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713751621421	Marionette	INFO	Stopped listening on port 61408
+Dynamically enable window occlusion 1
+zWA9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751407337	Marionette	INFO	Marionette enabled
+1713751407404	Marionette	INFO	Listening on port 61683
+WebDriver BiDi listening on ws://127.0.0.1:61676
+Read port: 61683
+1713751407500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61676/devtools/browser/171bbdf8-5a7a-453a-81c5-b43fa039e0b9
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713751437352	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713751622308	Marionette	INFO	Stopped listening on port 61683
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehtgl0d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751513273	Marionette	INFO	Marionette enabled
+1713751513342	Marionette	INFO	Listening on port 61955
+WebDriver BiDi listening on ws://127.0.0.1:61942
+Read port: 61955
+1713751513454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61942/devtools/browser/843460d5-496b-4bc3-94bf-276c70079960
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713751527621	Marionette	INFO	Stopped listening on port 61955
+Dynamically enable window occlusion 1
+1713751558323	geckodriver	INFO	Listening on 127.0.0.1:62126
+1713751561361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileM5VK0a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751561544	Marionette	INFO	Marionette enabled
+1713751561611	Marionette	INFO	Listening on port 62134
+WebDriver BiDi listening on ws://127.0.0.1:62127
+Read port: 62134
+1713751561719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62127/devtools/browser/3b286868-9db1-44ce-82fb-521b06338045
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713751591560	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713751615781	Marionette	INFO	Stopped listening on port 62134
+Dynamically enable window occlusion 1
+1713751626406	geckodriver	INFO	Listening on 127.0.0.1:62394
+1713751629448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehz3pou"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751629707	Marionette	INFO	Marionette enabled
+1713751629773	Marionette	INFO	Listening on port 62402
+WebDriver BiDi listening on ws://127.0.0.1:62395
+Read port: 62402
+1713751629812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62395/devtools/browser/30f3d7a1-18e0-42f6-b32c-a98f82b1ed3a
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713751660761	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713751677618	Marionette	INFO	Stopped listening on port 62402
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/search-config-icons getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1713751679177	geckodriver	INFO	Listening on 127.0.0.1:62641
+1713751682230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecfGECG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751682414	Marionette	INFO	Marionette enabled
+1713751682481	Marionette	INFO	Listening on port 62650
+WebDriver BiDi listening on ws://127.0.0.1:62642
+Read port: 62650
+1713751682589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62642/devtools/browser/b0bfec80-233a-44ac-b5b7-d8d5a8d5155e
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713751713704	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713752022684	Marionette	INFO	Stopped listening on port 62650
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileXvmAIC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751785496	Marionette	INFO	Marionette enabled
+1713751785562	Marionette	INFO	Listening on port 63023
+WebDriver BiDi listening on ws://127.0.0.1:63016
+Read port: 63023
+1713751785670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63016/devtools/browser/77e03ace-bff8-46fe-ac21-de46722e9841
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713751815534	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713752023884	Marionette	INFO	Stopped listening on port 63023
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilessSVZs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751858503	Marionette	INFO	Marionette enabled
+1713751858570	Marionette	INFO	Listening on port 63314
+WebDriver BiDi listening on ws://127.0.0.1:63307
+Read port: 63314
+1713751858681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63307/devtools/browser/319e2864-7aec-46b6-acfc-2c98b20da757
+1713751888514	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713751987626	Marionette	INFO	Stopped listening on port 63314
+Dynamically enable window occlusion 1
+1713751991036	geckodriver	INFO	Listening on 127.0.0.1:64073
+1713751994092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64074" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexq3vxu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713751994269	Marionette	INFO	Marionette enabled
+1713751994338	Marionette	INFO	Listening on port 64081
+WebDriver BiDi listening on ws://127.0.0.1:64074
+Read port: 64081
+1713751994449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64074/devtools/browser/315e496a-c547-4e6d-b2e0-08cb3b993795
+1713752020978	Marionette	INFO	Stopped listening on port 64081
+Dynamically enable window occlusion 1
+1713752030290	geckodriver	INFO	Listening on 127.0.0.1:64143
+1713752033345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileGIzIqK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713752033527	Marionette	INFO	Marionette enabled
+1713752033594	Marionette	INFO	Listening on port 64152
+WebDriver BiDi listening on ws://127.0.0.1:64144
+Read port: 64152
+1713752033703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64144/devtools/browser/ee81b403-2b56-4b9e-9bac-b4198223f0b2
+1713752060367	Marionette	INFO	Stopped listening on port 64152
+Dynamically enable window occlusion 1
+1713752068392	geckodriver	INFO	Listening on 127.0.0.1:64215
+1713752071452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZsbk0G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713752071632	Marionette	INFO	Marionette enabled
+1713752071699	Marionette	INFO	Listening on port 64225
+WebDriver BiDi listening on ws://127.0.0.1:64216
+Read port: 64225
+1713752071810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64216/devtools/browser/ef02f364-66ee-4316-86c7-0d4847262d9e
+1713752102696	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713752159606	Marionette	INFO	Stopped listening on port 64225
+Dynamically enable window occlusion 1
+1713752183971	geckodriver	INFO	Listening on 127.0.0.1:64429
+1713752187038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64430" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilew4oDKO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713752187225	Marionette	INFO	Marionette enabled
+1713752187291	Marionette	INFO	Listening on port 64437
+WebDriver BiDi listening on ws://127.0.0.1:64430
+Read port: 64437
+1713752187400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64430/devtools/browser/fd75f622-128e-4c4a-b2e7-88fa9ccc0eb8
+1713752219475	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713752220493	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1713752227645	Marionette	INFO	Stopped listening on port 64437
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/personality-provider-models getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1713752232215	geckodriver	INFO	Listening on 127.0.0.1:64527
+1713752235286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileb2CB3k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713752235472	Marionette	INFO	Marionette enabled
+1713752235538	Marionette	INFO	Listening on port 64535
+WebDriver BiDi listening on ws://127.0.0.1:64528
+Read port: 64535
+1713752235652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64528/devtools/browser/bb5bd619-798f-4959-b04f-745fafc88031
+1713752265871	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713752266884	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713752866441	Marionette	INFO	Stopped listening on port 64535
+Dynamically enable window occlusion 1
+1713752894301	geckodriver	INFO	Listening on 127.0.0.1:65124
+1713752897365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYQtAHr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713752897571	Marionette	INFO	Marionette enabled
+1713752897638	Marionette	INFO	Listening on port 65132
+WebDriver BiDi listening on ws://127.0.0.1:65125
+Read port: 65132
+1713752897746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65125/devtools/browser/9ad47dbe-f77a-4a95-b7a9-37f95b642b52
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713752927933	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713753000731	Marionette	INFO	Stopped listening on port 65132
+Dynamically enable window occlusion 1
+1713753932534	geckodriver	INFO	Listening on 127.0.0.1:50479
+1713753935586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0ueRFs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713753935766	Marionette	INFO	Marionette enabled
+1713753935831	Marionette	INFO	Listening on port 50488
+WebDriver BiDi listening on ws://127.0.0.1:50480
+Read port: 50488
+1713753935941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50480/devtools/browser/07564fef-08ec-48c8-981f-405271a21f81
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713753966840	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713754557710	Marionette	INFO	Stopped listening on port 50488
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledwdbvQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713754330501	Marionette	INFO	Marionette enabled
+1713754330568	Marionette	INFO	Listening on port 50838
+WebDriver BiDi listening on ws://127.0.0.1:50830
+Read port: 50838
+1713754330677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50830/devtools/browser/4bc8e96b-c1f6-42b9-8d64-7e9b7fb98891
+1713754362770	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://app.earnaha.com/_next/static/chunks/main-dfb5f3f99fce0c2a.js, line 1: Error: Invariant: attempted to hard navigate to the same URL /?iss=https%3A%2F%2Faha.jp.auth0.com%2F https://app.earnaha.com/?iss=https%3A%2F%2Faha.jp.auth0.com%2F
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713754428902	Marionette	INFO	Stopped listening on port 50838
+Dynamically enable window occlusion 1
+1713754446663	geckodriver	INFO	Listening on 127.0.0.1:51102
+1713754449716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileN6uYIO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713754449893	Marionette	INFO	Marionette enabled
+1713754449959	Marionette	INFO	Listening on port 51112
+WebDriver BiDi listening on ws://127.0.0.1:51103
+Read port: 51112
+1713754450067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51103/devtools/browser/335f2b90-8dd8-4a5e-b803-bc77ed798969
+1713754480954	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713754556827	Marionette	INFO	Stopped listening on port 51112
+Dynamically enable window occlusion 1
+1713754617557	geckodriver	INFO	Listening on 127.0.0.1:51433
+1713754620608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51434" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileoRhuxK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713754620790	Marionette	INFO	Marionette enabled
+1713754620856	Marionette	INFO	Listening on port 51441
+WebDriver BiDi listening on ws://127.0.0.1:51434
+Read port: 51441
+1713754620965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51434/devtools/browser/9cc9d8bd-5644-42cc-ba16-3df029a4f6b4
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713754650859	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713756512094	Marionette	INFO	Stopped listening on port 51441
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1713757044402	geckodriver	INFO	Listening on 127.0.0.1:55694
+1713757047448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8N6mwQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713757047633	Marionette	INFO	Marionette enabled
+1713757047700	Marionette	INFO	Listening on port 55702
+WebDriver BiDi listening on ws://127.0.0.1:55695
+Read port: 55702
+1713757047810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55695/devtools/browser/a7b1969d-3ec1-4524-95a0-f9ac2bfef2a1
+1713757078009	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713757079030	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1713757114689	Marionette	INFO	Stopped listening on port 55702
+Dynamically enable window occlusion 1
+1713766141494	geckodriver	INFO	Listening on 127.0.0.1:62896
+1713766144575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1Xv1lQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713766144790	Marionette	INFO	Marionette enabled
+1713766144872	Marionette	INFO	Listening on port 62905
+WebDriver BiDi listening on ws://127.0.0.1:62897
+Read port: 62905
+1713766144993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62897/devtools/browser/62ee022e-2863-42a5-91c1-96e16d2f4bde
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713766175860	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713798598294	Marionette	INFO	Stopped listening on port 62905
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilekRCMgs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713766723167	Marionette	INFO	Marionette enabled
+1713766723234	Marionette	INFO	Listening on port 63807
+WebDriver BiDi listening on ws://127.0.0.1:63800
+Read port: 63807
+1713766723344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63800/devtools/browser/cf5f6eba-15b5-41aa-9748-717d5a2a421b
+1713766753272	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript error: , line 0: uncaught exception: Object
+1713798598217	Marionette	INFO	Stopped listening on port 63807
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+30458/eA/eh/ec<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:11071
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:11063
+
+Dynamically enable window occlusion 1
+.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713766979889	Marionette	INFO	Marionette enabled
+1713766979955	Marionette	INFO	Listening on port 64144
+WebDriver BiDi listening on ws://127.0.0.1:64135
+Read port: 64144
+1713766980065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64135/devtools/browser/9090adbe-bbcd-44e3-a244-7a733d29c2dc
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713767010001	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript error: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 393: Error: {"message":"Both secret and user tokens are not set. Either client.connectUser wasn't called or client.disconnect was called"}
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713771106419	Marionette	INFO	Stopped listening on port 64144
+Dynamically enable window occlusion 1
+6j1c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713767156298	Marionette	INFO	Marionette enabled
+1713767156366	Marionette	INFO	Listening on port 64477
+WebDriver BiDi listening on ws://127.0.0.1:64470
+Read port: 64477
+1713767156477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64470/devtools/browser/24deb5b2-0508-43bd-a28b-4800c6c99928
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713767186594	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 710))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713798598226	Marionette	INFO	Stopped listening on port 64477
+Dynamically enable window occlusion 1
+able window occlusion 0
+1713767652938	Marionette	INFO	Marionette enabled
+1713767653008	Marionette	INFO	Listening on port 64784
+WebDriver BiDi listening on ws://127.0.0.1:64777
+Read port: 64784
+1713767653122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64777/devtools/browser/90324c98-fb77-4e1a-b510-2d2ed4fa6b29
+1713767682968	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chu1713767733063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilevEKcdI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713767733304	Marionette	INFO	Marionette enabled
+1713767733372	Marionette	INFO	Listening on port 64867
+WebDriver BiDi listening on ws://127.0.0.1:64859
+Read port: 64867
+1713767733481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64859/devtools/browser/fed948a9-51f0-46ef-b63e-8344ec1cd407
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713767763338	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713767942215	Marionette	INFO	Stopped listening on port 64867
+Dynamically enable window occlusion 1
+AUfh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713767936721	Marionette	INFO	Marionette enabled
+1713767936788	Marionette	INFO	Listening on port 65202
+WebDriver BiDi listening on ws://127.0.0.1:65195
+Read port: 65202
+1713767936902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65195/devtools/browser/ef2776aa-1982-4f56-a70f-26d17918e86b
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713767966743	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713767977311	Marionette	INFO	Stopped listening on port 65202
+Dynamically enable window occlusion 1
+1713767981874	geckodriver	INFO	Listening on 127.0.0.1:65302
+1713767984899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQIicKZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713767985089	Marionette	INFO	Marionette enabled
+1713767985159	Marionette	INFO	Listening on port 65310
+WebDriver BiDi listening on ws://127.0.0.1:65303
+Read port: 65310
+1713767985268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65303/devtools/browser/7b0670d2-e299-4aea-939a-4517f3fd9497
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713768015169	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713768024540	Marionette	INFO	Stopped listening on port 65310
+Dynamically enable window occlusion 1
+1713768028370	geckodriver	INFO	Listening on 127.0.0.1:65416
+1713768031437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65417" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile6Xt6UY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713768031616	Marionette	INFO	Marionette enabled
+1713768031684	Marionette	INFO	Listening on port 65424
+WebDriver BiDi listening on ws://127.0.0.1:65417
+Read port: 65424
+1713768031797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65417/devtools/browser/bc365122-e467-4f92-bac3-2e41bee30116
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713768061689	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713798598245	Marionette	INFO	Stopped listening on port 65424
+Dynamically enable window occlusion 1
+G83Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713770255903	Marionette	INFO	Marionette enabled
+1713770255947	Marionette	INFO	Listening on port 51659
+WebDriver BiDi listening on ws://127.0.0.1:51652
+Read port: 51659
+1713770256092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51652/devtools/browser/a8ddb5ac-37c9-433f-bbf2-8c3a7fd4aa6a
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713770285918	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713770347211	Marionette	INFO	Stopped listening on port 51659
+Dynamically enable window occlusion 1
+VTKv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713770345362	Marionette	INFO	Marionette enabled
+1713770345407	Marionette	INFO	Listening on port 51806
+WebDriver BiDi listening on ws://127.0.0.1:51799
+Read port: 51806
+1713770345560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51799/devtools/browser/65d4d7bc-a6f4-4076-8d91-78a79a2a7c7b
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713770375394	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713770432236	Marionette	INFO	Stopped listening on port 51806
+Dynamically enable window occlusion 1
+1713770671226	geckodriver	INFO	Listening on 127.0.0.1:52227
+1713770674266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52228" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileI5dlU3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713770674444	Marionette	INFO	Marionette enabled
+1713770674488	Marionette	INFO	Listening on port 52235
+WebDriver BiDi listening on ws://127.0.0.1:52228
+Read port: 52235
+1713770674637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52228/devtools/browser/fa27661c-3295-40a5-986d-2e6c981de896
+1713770704763	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chu1713770721791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52306" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileZ14tWA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713770721973	Marionette	INFO	Marionette enabled
+1713770722016	Marionette	INFO	Listening on port 52314
+WebDriver BiDi listening on ws://127.0.0.1:52306
+Read port: 52314
+1713770722161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52306/devtools/browser/ba8652ae-05e9-4efd-a90e-5b29b9eb9165
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713770752002	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 105: Error: Connection closed, pending request to server0.conn0.windowGlobal10737418241/domnode234, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:299:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:103:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:101:31
+
+1713771107505	Marionette	INFO	Stopped listening on port 52314
+Dynamically enable window occlusion 1
+brender::device::gl] Failed to compile vertex shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile vertex shader: cs_blur_ALPHA_TARGET
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_blur_ALPHA_TARGET
+    
+[GFX1-]: Failed to compile vertex shader: cs_blur_ALPHA_TARGET
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_blur_ALPHA_TARGET
+    
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: cs_border_solid
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_border_solid
+    
+[GFX1-]: Failed to compile vertex shader: cs_blur_ALPHA_TARGET
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_blur_ALPHA_TARGET
+    
+[GFX1-]: Failed to compile vertex shader: cs_clip_box_shadow_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_box_shadow_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: cs_clip_rectangle_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_rectangle_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: cs_border_solid
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_border_solid
+    
+[GFX1-]: Failed to compile vertex shader: cs_clip_box_shadow_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_box_shadow_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: cs_clip_rectangle_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: cs_clip_rectangle_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: ps_text_run_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_text_run_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_linear_gradient
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_linear_gradient
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_mask_FAST_PATH
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524288, w=1024, h=512)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Handling webren[Gder error 4
+FX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+[GFX1-]: Fallback WR to
+ SW-WR [ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
++ D3D11
+[GFX1-]: Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524288, w=256, h=512)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_opacity_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: brush_solid_ALPHA_PASS
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_solid_ALPHA_PASS
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: brush_image_ALPHA_PASS_TEXTURE_2D
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=524288, y=524800, w=1024, h=424)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e Rect(x=525312, y=524800, w=256, h=424)
+[GFX1-]: Failed to compile vertex shader: ps_clear
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_clear
+    
+[GFX1-]: Failed to compile vertex shader: ps_quad_textured
+
+[ERROR webrender::device::gl] Failed to compile vertex shader: ps_quad_textured
+    
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_ALPHA_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_ALPHA_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_ALPHA_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_border_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur_ALPHA_TARGET", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_box_shadow_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_mask_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_border_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_box_shadow_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_linear_gradient", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_mask_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_mask_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_mask_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_mask_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_mask_FAST_PATH", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run_ALPHA_PASS_DUAL_SOURCE_BLENDING_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid_ALPHA_PASS", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image_ALPHA_PASS_TEXTURE_2D", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_clear", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_quad_textured", ""))
+[GFX1-]: [D3D11] create ps buffer failed: 0x8007000e
+[GFX1-]: [D3D11] failed to get compositor device attachments
+[GFX1-]: Failed to initialize CompositorD3D11 for SWGL: FEATURE_FAILURE_D3D11_PS_BUFFER
+out of memory: 0x00000000000000A8 bytes requested
+console.error: "out of memory"
+console.error: "out of memory"
+console.error: "out of memory"
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: , line 0: uncaught exception: out of memory
+console.error: "out of memory"
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: wr_renderer_render: OutOfMemory
+[GFX1-]: Handling webrender error 2
+[GFX1-]: Fallback SW-WR + D3D11 to SW-WR
+[GFX1-]: wr_renderer_render: OutOfMemory
+console.error: "Error updating FxA account info:" "out of memory"
+DevTools listening on ws://127.0.0.1:52442/devtools/browser/7824d807-e76c-4efd-8797-f42417491170
+1713770915562	Marionette	INFO	Stopped listening on port 52449
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: out of memory
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: out of memory
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: uncaught exception: out of memory
+1713770918650	geckodriver	INFO	Listening on 127.0.0.1:52511
+1713770921684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52512" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexCyeZJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713770921866	Marionette	INFO	Marionette enabled
+1713770921913	Marionette	INFO	Listening on port 52519
+WebDriver BiDi listening on ws://127.0.0.1:52512
+Read port: 52519
+1713770922025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52512/devtools/browser/d7c615bb-5e59-4d38-839f-0c4295152a23
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713770944532	Marionette	INFO	Stopped listening on port 52519
+Dynamically enable window occlusion 1
+1713770947743	geckodriver	INFO	Listening on 127.0.0.1:52578
+1713770950820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileM7BwA9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713770950998	Marionette	INFO	Marionette enabled
+1713770951043	Marionette	INFO	Listening on port 52586
+WebDriver BiDi listening on ws://127.0.0.1:52579
+Read port: 52586
+1713770951189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52579/devtools/browser/dfd666f6-2aaa-4a9b-ae05-35fe3475a313
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713770981011	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 710))
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713771292955	Marionette	INFO	Stopped listening on port 52586
+Dynamically enable window occlusion 1
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ficate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52787/devtools/browser/b25eb3f9-be48-4fe1-adeb-f5dbce9ee83a
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713771321604	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Panel inspector:" (new TypeError("event is u1713771412518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52906" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWK3bVn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713771412698	Marionette	INFO	Marionette enabled
+1713771412742	Marionette	INFO	Listening on port 52925
+Read port: 52925
+WebDriver BiDi listening on ws://127.0.0.1:52906
+1713771412780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52906/devtools/browser/de3e399f-a446-4abe-adf6-af23919c4b23
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713771443990	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713798598181	Marionette	INFO	Stopped listening on port 52925
+Dynamically enable window occlusion 1
+jKms"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713771536512	Marionette	INFO	Marionette enabled
+1713771536555	Marionette	INFO	Listening on port 53040
+WebDriver BiDi listening on ws://127.0.0.1:53033
+Read port: 53040
+1713771536666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53033/devtools/browser/5c80880b-616b-42bf-acda-fb599a7906b2
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713771567057	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 710))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713798598368	Marionette	INFO	Stopped listening on port 53040
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilee5gHwy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713794994077	Marionette	INFO	Marionette enabled
+1713794994138	Marionette	INFO	Listening on port 59254
+WebDriver BiDi listening on ws://127.0.0.1:59243
+Read port: 59254
+1713794994273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59243/devtools/browser/d36b6ed7-4527-4096-997a-c29002054578
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713795025519	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713795196276	Marionette	INFO	Stopped listening on port 59254
+Dynamically enable window occlusion 1
+GGQg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713795073278	Marionette	INFO	Marionette enabled
+1713795073321	Marionette	INFO	Listening on port 59421
+WebDriver BiDi listening on ws://127.0.0.1:59414
+Read port: 59421
+1713795073450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59414/devtools/browser/3ea1cd58-373f-4c7b-b865-3415483f11fd
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713795103609	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713795194687	Marionette	INFO	Stopped listening on port 59421
+Dynamically enable window occlusion 1
+bnhl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713795117788	Marionette	INFO	Marionette enabled
+1713795117834	Marionette	INFO	Listening on port 59535
+WebDriver BiDi listening on ws://127.0.0.1:59528
+Read port: 59535
+1713795117947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59528/devtools/browser/d46fcd0f-c581-4842-ad0d-b8cce7b0fd4d
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713795148138	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713795194279	Marionette	INFO	Stopped listening on port 59535
+Dynamically enable window occlusion 1
+bSYE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713795163150	Marionette	INFO	Marionette enabled
+1713795163195	Marionette	INFO	Listening on port 59655
+WebDriver BiDi listening on ws://127.0.0.1:59647
+Read port: 59655
+1713795163311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59647/devtools/browser/50b4e8d6-2e6e-4297-942c-310d33e66cba
+1713795192036	Marionette	INFO	Stopped listening on port 59651713795194311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilerPkNor"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713795194588	Marionette	INFO	Marionette enabled
+1713795194641	Marionette	INFO	Listening on port 59742
+WebDriver BiDi listening on ws://127.0.0.1:59734
+Read port: 59742
+1713795194845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1713795195670	Marionette	INFO	Stopped listening on port 59742
+Dynamically enable window occlusion 1
+1713795195674	CDP	WARN	Failed to remove undefined (Could not remove `undefined': could not parse path (NS_ERROR_FILE_UNRECOGNIZED_PATH))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+1713795199026	geckodriver	INFO	Listening on 127.0.0.1:59756
+1713795202082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilel0KDLg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713795202287	Marionette	INFO	Marionette enabled
+1713795202338	Marionette	INFO	Listening on port 59768
+WebDriver BiDi listening on ws://127.0.0.1:59757
+Read port: 59768
+1713795202476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59757/devtools/browser/544a9d2f-17cb-4c3e-82d3-c6d6137a9e02
+1713795233043	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713795239938	Marionette	INFO	Stopped listening on port 59768
+Dynamically enable window occlusion 1
+console.error: (new Error("IndexedDB: main/addons-manager-settings list() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/ms-images getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1713795242684	geckodriver	INFO	Listening on 127.0.0.1:59844
+1713795245724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileGtPwaX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713795245906	Marionette	INFO	Marionette enabled
+1713795245949	Marionette	INFO	Listening on port 59852
+WebDriver BiDi listening on ws://127.0.0.1:59845
+Read port: 59852
+1713795246060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59845/devtools/browser/38e11412-9a89-482f-abbb-ad7a4790eeff
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713795275941	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713795405273	Marionette	INFO	Stopped listening on port 59852
+Dynamically enable window occlusion 1
+1713795407845	geckodriver	INFO	Listening on 127.0.0.1:59975
+1713795410901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59976" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1Tm2dG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713795411082	Marionette	INFO	Marionette enabled
+1713795411125	Marionette	INFO	Listening on port 59983
+WebDriver BiDi listening on ws://127.0.0.1:59976
+Read port: 59983
+1713795411240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59976/devtools/browser/6ebd943c-4e01-4dc8-bc93-7eaabfa6f34e
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript error: , line 0: uncaught exception: Object
+1713795441146	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713795484707	Marionette	INFO	Stopped listening on port 59983
+Dynamically enable window occlusion 1
+1713796025982	geckodriver	INFO	Listening on 127.0.0.1:60744
+1713796029030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0UaInt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713796029220	Marionette	INFO	Marionette enabled
+1713796029263	Marionette	INFO	Listening on port 60752
+WebDriver BiDi listening on ws://127.0.0.1:60745
+Read port: 60752
+1713796029377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60745/devtools/browser/793485a1-de4b-4605-b53e-74d79623e889
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713796059530	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713796215410	Marionette	INFO	Stopped listening on port 60752
+Dynamically enable window occlusion 1
+vD8q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713796143924	Marionette	INFO	Marionette enabled
+1713796143968	Marionette	INFO	Listening on port 60918
+WebDriver BiDi listening on ws://127.0.0.1:60911
+Read port: 60918
+1713796144082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60911/devtools/browser/d93e0d5e-e663-4988-b738-f769b5ea2e05
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713796173948	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chu1713796217336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61064" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehg6Abf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713796217576	Marionette	INFO	Marionette enabled
+1713796217626	Marionette	INFO	Listening on port 61073
+WebDriver BiDi listening on ws://127.0.0.1:61064
+Read port: 61073
+1713796217769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61064/devtools/browser/b6d6b071-5476-49fd-828c-4aa39ae3139f
+1713796248616	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713796891995	Marionette	INFO	Stopped listening on port 61073
+Dynamically enable window occlusion 1
+Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713796339547	Marionette	INFO	Marionette enabled
+1713796339590	Marionette	INFO	Listening on port 61213
+WebDriver BiDi listening on ws://127.0.0.1:61206
+Read port: 61213
+1713796339738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61206/devtools/browser/6433115e-4e66-48a4-8b9d-92107e2e4152
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713796369954	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713796890158	Marionette	INFO	Stopped listening on port 61213
+Dynamically enable window occlusion 1
+Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713796530677	Marionette	INFO	Marionette enabled
+1713796530719	Marionette	INFO	Listening on port 61367
+WebDriver BiDi listening on ws://127.0.0.1:61359
+Read port: 61367
+1713796530867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61359/devtools/browser/0d164936-8053-49d8-a2c2-d46aa5ff06c0
+1713796560753	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 710))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: Failed to make render context current during destroying.
+[GFX1-]: Error in eglMakeCurrent: 0x300e
+[GFX1-]: Error in eglDestroySurface: 0x300e
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713798595521	Marionette	INFO	Stopped listening on port 61367
+Dynamically enable window occlusion 1
+INFO	Listening on port 61666
+WebDriver BiDi listening on ws://127.0.0.1:61656
+Read port: 61666
+1713796900252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61656/devtools/browser/61fc6b6c-47e3-4874-8e47-130af2e23b4b
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713796930367	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713796985571	Marionette	INFO	Stopped listening on port 61666
+Dynamically enable window occlusion 1
+1713797003571	geckodriver	INFO	Listening on 127.0.0.1:61856
+1713797006611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileGl6tdc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713797006790	Marionette	INFO	Marionette enabled
+1713797006834	Marionette	INFO	Listening on port 61864
+WebDriver BiDi listening on ws://127.0.0.1:61857
+Read port: 61864
+1713797006978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61857/devtools/browser/746d1f4d-eafa-46c7-b316-10fa5d8740a2
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713797037169	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:321:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2415))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:321:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2415))
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+console.error: (new TypeError("null has no properties", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: null has no properties: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:321:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2415))
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713797414008	Marionette	INFO	Stopped listening on port 61864
+Dynamically enable window occlusion 1
+1713797417988	geckodriver	INFO	Listening on 127.0.0.1:62075
+1713797421044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileXIwLRV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713797421225	Marionette	INFO	Marionette enabled
+1713797421268	Marionette	INFO	Listening on port 62083
+WebDriver BiDi listening on ws://127.0.0.1:62076
+Read port: 62083
+1713797421418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62076/devtools/browser/8bc428f6-2adc-4b2c-ab0e-40025404c291
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713797451258	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713797647427	Marionette	INFO	Stopped listening on port 62083
+Dynamically enable window occlusion 1
+Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713797600857	Marionette	INFO	Marionette enabled
+1713797600902	Marionette	INFO	Listening on port 62242
+WebDriver BiDi listening on ws://127.0.0.1:62235
+Read port: 62242
+1713797601045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62235/devtools/browser/fa5210b8-5dc2-4880-9a56-88363f047650
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713797630872	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: uncaught exception: out of memory
+1713797645791	Marionette	INFO	Stopped listening on port 62242
+Dynamically enable window occlusion 1
+1713797650850	geckodriver	INFO	Listening on 127.0.0.1:62358
+1713797653888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexGibI1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713797654065	Marionette	INFO	Marionette enabled
+1713797654109	Marionette	INFO	Listening on port 62366
+WebDriver BiDi listening on ws://127.0.0.1:62359
+Read port: 62366
+1713797654225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62359/devtools/browser/a33fc5e4-644d-4bc8-b1be-311da1278f8c
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713797684126	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713797943440	Marionette	INFO	Stopped listening on port 62366
+Dynamically enable window occlusion 1
+SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713797724364	Marionette	INFO	Marionette enabled
+1713797724411	Marionette	INFO	Listening on port 62484
+WebDriver BiDi listening on ws://127.0.0.1:62476
+Read port: 62484
+1713797724585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62476/devtools/browser/a57b3d48-80c4-4f90-b211-51304c679a31
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713797754520	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713797941844	Marionette	INFO	Stopped listening on port 62484
+Dynamically enable window occlusion 1
+SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713797796579	Marionette	INFO	Marionette enabled
+1713797796635	Marionette	INFO	Listening on port 62583
+WebDriver BiDi listening on ws://127.0.0.1:62576
+Read port: 62583
+1713797796763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RcANGLE(no compositor device for EGLDisplay)
+[GFX1-]: RcANGLE(no compositor device for EGLDisplay)(Create)
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=true
+[GFX1-]: Fallback WR to SW-WR
+DevTools listening on ws://127.0.0.1:62576/devtools/browser/894e3c5b-22cd-4a86-8d17-d6b87a0438e8
+1713797827205	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713797939194	Marionette	INFO	Stopped listening on port 62583
+Dynamically enable window occlusion 1
+1713797946766	geckodriver	INFO	Listening on 127.0.0.1:62841
+1713797949817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYEMmy9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713797949996	Marionette	INFO	Marionette enabled
+1713797950044	Marionette	INFO	Listening on port 62849
+WebDriver BiDi listening on ws://127.0.0.1:62842
+Read port: 62849
+1713797950152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62842/devtools/browser/9807ad69-1949-4457-b713-f18a7d2e0d31
+1713797980043	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713798047589	Marionette	INFO	Stopped listening on port 62849
+Dynamically enable window occlusion 1
+1713798049861	geckodriver	INFO	Listening on 127.0.0.1:62992
+1713798052903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62993" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDAIzOj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713798053078	Marionette	INFO	Marionette enabled
+1713798053122	Marionette	INFO	Listening on port 63004
+WebDriver BiDi listening on ws://127.0.0.1:62993
+Read port: 63004
+1713798053267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62993/devtools/browser/a590ed12-cd48-48ab-a7f0-1049fed16b60
+1713798083193	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:321:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2415))
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1713798220221	Marionette	INFO	Stopped listening on port 63004
+Dynamically enable window occlusion 1
+1713798222544	geckodriver	INFO	Listening on 127.0.0.1:63159
+1713798225612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63160" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegqdUyv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713798225790	Marionette	INFO	Marionette enabled
+1713798225835	Marionette	INFO	Listening on port 63170
+Read port: 63170
+WebDriver BiDi listening on ws://127.0.0.1:63160
+1713798225872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63160/devtools/browser/36ed3ecf-9d32-4960-a47e-4a72dbfbd3ec
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713798255863	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713798432213	Marionette	INFO	Stopped listening on port 63170
+Dynamically enable window occlusion 1
+1713798804342	geckodriver	INFO	Listening on 127.0.0.1:63884
+1713798807415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile24nWWN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713798807589	Marionette	INFO	Marionette enabled
+1713798807634	Marionette	INFO	Listening on port 63892
+WebDriver BiDi listening on ws://127.0.0.1:63885
+Read port: 63892
+1713798807774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63885/devtools/browser/bf5be33a-6e46-4b21-8da1-d8c652bed0fd
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713798837778	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713798865952	Marionette	INFO	Stopped listening on port 63892
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+Dynamically enable window occlusion 1
+1713798881680	geckodriver	INFO	Listening on 127.0.0.1:63994
+1713798884731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileydCB7V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713798884912	Marionette	INFO	Marionette enabled
+1713798884956	Marionette	INFO	Listening on port 64002
+Read port: 64002
+WebDriver BiDi listening on ws://127.0.0.1:63995
+1713798884997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63995/devtools/browser/ef5ff7ac-7606-4996-abeb-134f6aa57f94
+1713798894835	Marionette	INFO	Stopped listening on port 64002
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 173: Script terminated by timeout at:
+29518/eG/</</<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:173:3524
+72568/h/g<@https://app.earnaha.com/_next/static/chunks/main-dfb5f3f99fce0c2a.js:1:28527
+h@https://app.earnaha.com/_next/static/chunks/main-dfb5f3f99fce0c2a.js:1:28505
+72568/g/</</<@https://app.earnaha.com/_next/static/chunks/main-dfb5f3f99fce0c2a.js:1:29998
+
+Dynamically enable window occlusion 1
+1713798902118	geckodriver	INFO	Listening on 127.0.0.1:64046
+1713798905176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileqkJExV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713798905351	Marionette	INFO	Marionette enabled
+1713798905394	Marionette	INFO	Listening on port 64054
+WebDriver BiDi listening on ws://127.0.0.1:64047
+Read port: 64054
+1713798905540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64047/devtools/browser/de643838-65cd-4995-a194-8b5aea2a4f3b
+1713798913651	Marionette	INFO	Stopped listening on port 64054
+Dynamically enable window occlusion 1
+1713798914255	geckodriver	INFO	Listening on 127.0.0.1:64098
+1713798917305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileqEDsHK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713798917495	Marionette	INFO	Marionette enabled
+1713798917541	Marionette	INFO	Listening on port 64106
+WebDriver BiDi listening on ws://127.0.0.1:64099
+Read port: 64106
+1713798917657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64099/devtools/browser/cc360668-f362-49ce-a110-eef10a35eed9
+1713798919636	Marionette	INFO	Stopped listening on port 64106
+Dynamically enable window occlusion 1
+1713798919670	geckodriver	INFO	Listening on 127.0.0.1:64124
+ignature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1713798925614	geckodriver	INFO	Listening on 127.0.0.1:64130
+1713798928661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileG4891V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713798928836	Marionette	INFO	Marionette enabled
+1713798928879	Marionette	INFO	Listening on port 64138
+WebDriver BiDi listening on ws://127.0.0.1:64131
+Read port: 64138
+1713798929021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64131/devtools/browser/237f21d8-38ec-47d5-b82d-42192f927108
+1713798936219	Marionette	INFO	Stopped listening on port 64138
+Dynamically enable window occlusion 1
+1713798936824	geckodriver	INFO	Listening on 127.0.0.1:64188
+1713798939878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilemK1Yjy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713798940061	Marionette	INFO	Marionette enabled
+1713798940105	Marionette	INFO	Listening on port 64197
+WebDriver BiDi listening on ws://127.0.0.1:64189
+Read port: 64197
+1713798940252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64189/devtools/browser/cfd69601-1e32-404a-985f-57554ca551fb
+1713798948393	Marionette	INFO	Stopped listening on port 64197
+Dynamically enable window occlusion 1
+1713798949066	geckodriver	INFO	Listening on 127.0.0.1:64240
+1713798952121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileq8vk3l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713798952296	Marionette	INFO	Marionette enabled
+1713798952341	Marionette	INFO	Listening on port 64251
+WebDriver BiDi listening on ws://127.0.0.1:64241
+Read port: 64251
+1713798952456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64241/devtools/browser/1f2ee5ae-8978-4059-afc8-8243d072bd79
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713798983024	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713799004884	Marionette	INFO	Stopped listening on port 64251
+Dynamically enable window occlusion 1
+1713799040579	geckodriver	INFO	Listening on 127.0.0.1:64418
+1713799043629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecCUa4x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799043814	Marionette	INFO	Marionette enabled
+1713799043857	Marionette	INFO	Listening on port 64426
+WebDriver BiDi listening on ws://127.0.0.1:64419
+Read port: 64426
+1713799043969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64419/devtools/browser/b2bf5848-9875-4598-97a5-24c598b4d326
+1713799056263	Marionette	INFO	Stopped listening on port 64426
+Dynamically enable window occlusion 1
+1713799056888	geckodriver	INFO	Listening on 127.0.0.1:64471
+1713799059970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64472" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepEjCfA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799060159	Marionette	INFO	Marionette enabled
+1713799060203	Marionette	INFO	Listening on port 64479
+WebDriver BiDi listening on ws://127.0.0.1:64472
+Read port: 64479
+1713799060346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64472/devtools/browser/622261f0-23fd-45b7-a287-43b9a2ed974f
+1713799068215	Marionette	INFO	Stopped listening on port 64479
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 173: Script terminated by timeout at:
+29518/eG/</</<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:173:3524
+72568/h/g<@https://app.earnaha.com/_next/static/chunks/main-dfb5f3f99fce0c2a.js:1:28527
+h@https://app.earnaha.com/_next/static/chunks/main-dfb5f3f99fce0c2a.js:1:28505
+72568/g/</</<@https://app.earnaha.com/_next/static/chunks/main-dfb5f3f99fce0c2a.js:1:29998
+
+Dynamically enable window occlusion 1
+1713799068936	geckodriver	INFO	Listening on 127.0.0.1:64525
+1713799071993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64526" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilesYpDtT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799072193	Marionette	INFO	Marionette enabled
+1713799072242	Marionette	INFO	Listening on port 64534
+WebDriver BiDi listening on ws://127.0.0.1:64526
+Read port: 64534
+1713799072367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64526/devtools/browser/add194bd-5571-4933-bbd0-5486aadea7ac
+1713799077214	Marionette	INFO	Stopped listening on port 64534
+Dynamically enable window occlusion 1
+1713799082792	geckodriver	INFO	Listening on 127.0.0.1:64560
+1713799085854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64561" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0KV2ou"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799086035	Marionette	INFO	Marionette enabled
+1713799086079	Marionette	INFO	Listening on port 64568
+Read port: 64568
+WebDriver BiDi listening on ws://127.0.0.1:64561
+1713799086115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64561/devtools/browser/540c770d-9827-4810-84c6-091a05c85439
+1713799116046	addons.xpi	ERROR	System addon update list erro1713799116555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileed6W3n"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799116787	Marionette	INFO	Marionette enabled
+1713799116846	Marionette	INFO	Listening on port 64634
+WebDriver BiDi listening on ws://127.0.0.1:64623
+Read port: 64634
+1713799116986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64623/devtools/browser/0b41e843-2479-479c-9f9d-547c34f93284
+1713799138516	Marionette	INFO	Stopped listening on port 64634
+Dynamically enable window occlusion 1
+1713799138549	geckodriver	INFO	Listening on 127.0.0.1:64678
+1713799146715	geckodriver	INFO	Listening on 127.0.0.1:64683
+1713799149755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilenO4cZz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799149943	Marionette	INFO	Marionette enabled
+1713799149987	Marionette	INFO	Listening on port 64692
+WebDriver BiDi listening on ws://127.0.0.1:64684
+Read port: 64692
+1713799150131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64684/devtools/browser/c2538d8b-6d59-41c2-b9ce-6dfbdf134d8f
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713799180131	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713799227451	Marionette	INFO	Stopped listening on port 64692
+Dynamically enable window occlusion 1
+x87h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799209275	Marionette	INFO	Marionette enabled
+1713799209318	Marionette	INFO	Listening on port 64812
+WebDriver BiDi listening on ws://127.0.0.1:64805
+Read port: 64812
+1713799209468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64805/devtools/browser/506608c7-9c87-4e2c-9eb6-c5c953ab5756
+1713799221362	geckodriver	INFO	Listening on 127.0.0.1:64858
+1713799224430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4NWb93"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799224666	Marionette	INFO	Marionette enabled
+1713799224720	Marionette	INFO	Listening on port 64873
+WebDriver BiDi listening on ws://127.0.0.1:64859
+Read port: 64873
+1713799224861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64859/devtools/browser/eb500da2-f860-4c80-a254-82934929b8fe
+[G[GFX1-FX]: Compo1-sito]: CompositorBridgeCrBridgeChild receives IPC child receives lose with reason=AbnoIPC closerm with reason=AalbnorShmautlSdohutdownwn
+
+1713799271411	geckodriver	INFO	Listening on 127.0.0.1:64898
+1713799274442	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3eiUTX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799274663	Marionette	INFO	Marionette enabled
+1713799274728	Marionette	INFO	Listening on port 64906
+WebDriver BiDi listening on ws://127.0.0.1:64899
+Read port: 64906
+1713799274877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64899/devtools/browser/40a5a3b7-e4ae-49b3-b98d-f0a8caf3b9f0
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aha.jp.auth0.com."
+1713799304681	addons.xpi	ERROR	System addon update list erro1713799306050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exJavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:10949
+
+1713799328500	Marionette	INFO	Stopped listening on port 64906
+Dynamically enable window occlusion 1
+NGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799306278	Marionette	INFO	Marionette enabled
+1713799306334	Marionette	INFO	Listening on port 65001
+WebDriver BiDi listening on ws://127.0.0.1:64987
+Read port: 65001
+1713799306475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64987/devtools/browser/4fa9e784-4f56-488f-b4b1-747140ac01ae
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 160: Script terminated by timeout at:
+eh@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:160:11063
+
+1713799327634	Marionette	INFO	Stopped listening on port 65001
+Dynamically enable window occlusion 1
+XLys"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799321467	Marionette	INFO	Marionette enabled
+1713799321547	Marionette	INFO	Listening on port 65066
+WebDriver BiDi listening on ws://127.0.0.1:65047
+Read port: 65066
+1713799321729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65047/devtools/browser/43426c20-37c5-4967-8d92-06c1fe5f3dc4
+1713799326665	Marionette	INFO	Stopped listening on port 65066
+Dynamically enable window occlusion 1
+1713799737327	geckodriver	INFO	Listening on 127.0.0.1:65415
+1713799740380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65416" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileuji7BD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799740596	Marionette	INFO	Marionette enabled
+1713799740645	Marionette	INFO	Listening on port 65427
+WebDriver BiDi listening on ws://127.0.0.1:65416
+Read port: 65427
+1713799740763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65416/devtools/browser/984da175-3c18-4a0d-b79f-0532780149c1
+1713799771441	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713799793197	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1713799799672	Marionette	INFO	Stopped listening on port 65427
+Dynamically enable window occlusion 1
+1713799801809	geckodriver	INFO	Listening on 127.0.0.1:65490
+1713799804847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepCHFDI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799805050	Marionette	INFO	Marionette enabled
+1713799805100	Marionette	INFO	Listening on port 65498
+WebDriver BiDi listening on ws://127.0.0.1:65491
+Read port: 65498
+1713799805215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65491/devtools/browser/4a555de5-8d27-461a-8e14-14fe4203c7fb
+1713799835336	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1713799837233	Marionette	INFO	Stopped listening on port 65498
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-mobile-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1713799843740	geckodriver	INFO	Listening on 127.0.0.1:49162
+1713799846786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileBjBc4I"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799846978	Marionette	INFO	Marionette enabled
+1713799847021	Marionette	INFO	Listening on port 49173
+WebDriver BiDi listening on ws://127.0.0.1:49163
+Read port: 49173
+1713799847139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49163/devtools/browser/936bc0e1-3e96-46a0-be8b-d719a092bc70
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: Failed to create WebGL context: WebGL creation failed: 
+* AllowWebgl2:false restricts context creation on this system. ()
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n"
+1713799853366	Marionette	INFO	Stopped listening on port 49173
+Dynamically enable window occlusion 1
+1713799885041	geckodriver	INFO	Listening on 127.0.0.1:49235
+1713799888116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49236" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepg8W62"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713799888296	Marionette	INFO	Marionette enabled
+1713799888339	Marionette	INFO	Listening on port 49243
+WebDriver BiDi listening on ws://127.0.0.1:49236
+Read port: 49243
+1713799888487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49236/devtools/browser/940a07e0-c2f4-4551-b59a-ad3e772080b1
+1713799918687	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js, line 372: Script terminated by timeout at:
+44326/tV/<@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:3550
+eu@https://app.earnaha.com/_next/static/chunks/pages/_app-5a61217627980566.js:372:2841
+
+1713799944892	Marionette	INFO	Stopped listening on port 49243
+Dynamically enable window occlusion 1
