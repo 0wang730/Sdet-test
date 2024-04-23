@@ -13,3 +13,6 @@ class DriverUtil():
         self.driver.implicitly_wait(15)
         # self.driver.maximize_window()
         return self.driver
+
+    def stop(self):
+        self.driver.quit()

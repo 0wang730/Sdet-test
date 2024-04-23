@@ -14,13 +14,10 @@ class TaskCase(BaseUtils):
         cls.driver = DriverUtil().start()
         cls.driver.maximize_window()
 
-    def tearDownClass(cls):
-        cls.driver.close()
-
     def test_1login(self):
         lp = LoginPage(self.driver)
         lp.to_login()
-        lp.login("", "")#the account you want to sign in
+        lp.login("812204941@qq.com", "12345678Abc!")#the account you want to sign in
         # lp.login_out()
 
     def test_2edit_userInfo(self):
@@ -31,3 +28,6 @@ class TaskCase(BaseUtils):
         lp = SettingPage(self.driver)
         lp.login_out()
         time.sleep(2)
+
+    def tearDownClass(cls):
+        cls.driver=DriverUtil.stop()
